@@ -25,6 +25,6 @@
 #### Data Storages(数据存储)
 * 要的就是小,因为持久化的数据要求级别并不高.
 
-    1. sqlite
+    1. Sqlite or PostgreSQL
 
 ## 
