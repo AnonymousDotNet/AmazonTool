@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmazonTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e026aec41531ef9cd148e7bef9eb1600cec51a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b9292658c4bc5c80e5df116eae482001e599a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmazonTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmazonTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
