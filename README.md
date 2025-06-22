@@ -66,7 +66,7 @@ dotnet build
 dotnet run
 ```
 
-> 详细依赖与配置请参见 [INSTALL.md](INSTALL.md) 或各模块内文档。
+> 详细依赖与配置请参见 [INSTALL.md](INSTALL.zh.md) 或各模块内文档。
 
 ---
 

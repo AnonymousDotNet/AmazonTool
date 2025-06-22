@@ -64,7 +64,7 @@ dotnet build
 dotnet run
 ```
 
-> For dependencies and configuration, see [INSTALL.md](INSTALL.md) or module-specific docs.
+> For dependencies and configuration, see [INSTALL.md](INSTALL.en.md) or module-specific docs.
 
 ---
 
