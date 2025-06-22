@@ -88,7 +88,7 @@ AmazonTool/
 
 ## 🛠️ 贡献指南
 
-欢迎任何形式的贡献！请在提交 PR 前阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 并确保所有测试通过。
+欢迎任何形式的贡献！请在提交 PR 前阅读 [贡献](CONTRIBUTING.zh.md) or [CONTRIBUTING](CONTRIBUTING.en.md) 并确保所有测试通过。
 
 ---
 
