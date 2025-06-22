@@ -86,7 +86,7 @@ AmazonTool/
 
 ## 🛠️ Contributing
 
-All types of contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) and make sure all tests pass before submitting a PR.
+All types of contributions are welcome! Please read [CONTRIBUTING](CONTRIBUTING.en.md) and make sure all tests pass before submitting a PR.
 
 ---
 
@@ -103,7 +103,7 @@ All types of contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTI
 
 ## 📃 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
