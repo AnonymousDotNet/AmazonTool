@@ -1,6 +1,6 @@
 # AmazonTool
 
-> 📄 [English Version | 英文版](./README.en.md)
+> 📄 简体中文 | [English](./README.en.md)
 
 AmazonTool 是面向亚马逊店铺开发者的调试与测试辅助工具，帮助开发者、运营及测试人员便捷完成店铺授权、数据获取、权限密钥生成和API调试。项目采用模块化、轻量级和易用性设计，支持客户端与后端服务解耦，便于未来多端扩展。
 
