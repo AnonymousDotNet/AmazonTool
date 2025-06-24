@@ -11,15 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AmazonTool.WPF")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AmazonTool.Api.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3f5cd1ba65208f569c62987d30a582e32215f46")]
-[assembly: System.Reflection.AssemblyProductAttribute("AmazonTool.WPF")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AmazonTool.WPF")]
+[assembly: System.Reflection.AssemblyProductAttribute("AmazonTool.Api.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AmazonTool.Api.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 
