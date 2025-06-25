@@ -73,16 +73,15 @@ dotnet run
 ## 🖼️ 项目结构
 
 ```
-AmazonTool/
-├── docs/                 # 说明文档与开发笔记
-├── src/
-│   ├── AmazonTool.WinForm/   # WinForm 客户端源码
-│   ├── AmazonTool.WPF/       # WPF 客户端源码（规划中）
-│   └── AmazonTool.Api/       # 后端API服务源码
-├── tests/                # 单元与集成测试
-├── README.md
-├── ...
-```
+AmazonTool (解决方案)
+│
+├── AmazonTool.WinForm       // WinForm客户端
+├── AmazonTool.WPF           // WPF客户端（可选）
+├── AmazonTool.Api           // 后端API服务
+├── AmazonTool.Api.Tests     // 后端测试
+├── docs                     // 文档文件夹（可在资源管理器新建）
+├── tests                    // 其他测试项目（可在资源管理器新建）
+└── README.md                // 项目说明
 
 ---
 
