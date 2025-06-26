@@ -71,15 +71,15 @@ dotnet run
 ## 🖼️ Project Structure
 
 ```
-AmazonTool/
+AmazonTool
+|
+├── AmazonTool.WinForm/   # WinForm client source code
+├── AmazonTool.WPF/       # WPF client source (planned)
+├── AmazonTool.Api/       # Backend API source code
+├── AmazonTool.Api.Tests
 ├── docs/                 # Documentation and notes
-├── src/
-│   ├── AmazonTool.WinForm/   # WinForm client source code
-│   ├── AmazonTool.WPF/       # WPF client source (planned)
-│   └── AmazonTool.Api/       # Backend API source code
 ├── tests/                # Unit & integration tests
-├── README.md
-├── ...
+├── EADME.md
 ```
 
 ---
