@@ -76,6 +76,7 @@ AmazonTool
 ├── AmazonTool.WinForm/   # WinForm client source code
 ├── AmazonTool.WPF/       # WPF client source (planned)
 ├── AmazonTool.Api/       # Backend API source code
+├── AmaTool.Common/       
 ├── AmazonTool.Api.Tests
 ├── docs/                 # Documentation and notes
 ├── tests/                # Unit & integration tests

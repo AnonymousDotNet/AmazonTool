@@ -79,6 +79,7 @@ AmazonTool (解决方案)
 ├── AmazonTool.WPF           // WPF客户端（可选）
 ├── AmazonTool.Api           // 后端API服务
 ├── AmazonTool.Api.Tests     // 后端测试
+├── AmaTool.Common/          // 公共类库
 ├── docs                     // 文档文件夹（可在资源管理器新建）
 ├── tests                    // 其他测试项目（可在资源管理器新建）
 └── README.md                // 项目说明
